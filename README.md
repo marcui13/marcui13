@@ -6,6 +6,8 @@
 
 - 📫 How to reach me amarquardt20@gmail.com
 
+- discord:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/agustin-marquardt-0015611b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanescarcha" height="30" width="40" /></a></p>
