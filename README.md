@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Agustín</h1>
 <h3 align="center">I'm passionate about web3, Artificial Intelligence, blockchain, nfts, and many more things.</h3>
-<h3 align="center">My dream is to travel the world working remotely 💻🌎</h3>
+<h3 align="center">My dream is to be a digital nomade 💻🌎</h3>
 
 - 🌱 I'm currently learning Artificial Intelligence and Full Stack Development
+
+- ☕💕 Coffee Lover
 
 - 📫 How to reach me amarquardt20@gmail.com
 
